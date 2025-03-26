@@ -1,0 +1,15 @@
+! Türkiye'de Hükümete Yakın Medya Kuruluşları Engelleme Listesi - Mart 2025
+! Aşağıdaki siteler, hükümete yakın medya kuruluşlarını kapsamaktadır.
+||trt.net.tr^
+||aa.com.tr^
+||dailysabah.com^
+||hurriyet.com.tr^
+||sabah.com.tr^
+||ahaber.com.tr^
+||star.com.tr^
+||tgrthaber.com.tr^
+||yenisafak.com^
+||takvim.com.tr^
+||gunes.com^
+||aksam.com.tr^
+||milliyet.com.tr^
