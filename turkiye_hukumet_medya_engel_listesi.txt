@@ -26,6 +26,7 @@
 ||ahaber.com.tr^
 ||ntv.com.tr^
 ||cnnturk.com^
+||tgrthaber.com^
 ||tgrthaber.com.tr^
 ||beyaztv.com.tr^
 ||ulketv.com^
@@ -48,6 +49,7 @@
 ||dirilispostasi.com^
 ||vogue.com.tr^
 ||gq.com.tr^
+||turkuvazkitap.com.tr^
 
 ! Radyo Kanalları
 ||trt.net.tr^
@@ -72,3 +74,21 @@
 ||beinsports.com.tr^  
 ||bloomberght.com^ 
 ||puhutv.com^
+
+! Medya Holding Şirketleri
+||ihlasyayinholding.com.tr^
+
+! E-Ticaret Platformları
+||idefix.com^
+||dr.com.tr^
+||etstur.com^
+
+! Bahis, Şans Oyunları ve Piyango Siteleri
+||misli.com^
+||millipiyangoonline.com^
+
+! Mobilya ve Dekorasyon Şirketleri
+||kilimmobilya.com.tr^
+
+! Gıda ve Kahve Zincirleri
+||espressolab.com^
