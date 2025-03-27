@@ -14,6 +14,7 @@
 ||yeniakit.com.tr^
 ||posta.com.tr^
 ||fanatik.com.tr^
+||gazetevatan.com^
 
 ! Televizyon Kanalları
 ||trt.net.tr^
@@ -27,15 +28,26 @@
 ||cnnturk.com^
 ||tgrthaber.com.tr^
 ||beyaztv.com.tr^
+||ulketv.com^
+||tv8.com.tr^
+||aspor.com.tr^
+||minika.com.tr^
+||minikacocuk.com.tr^
+||vavtv.com.tr^
+||sport1.com.tr^
+||nickelodeon.com.tr^
 
 ! Haber Ajansları
 ||aa.com.tr^
 ||iha.com.tr^
+||dha.com.tr^
 
 ! Dergiler ve Diğer Yayınlar
 ||dailysabah.com^
 ||yeniasir.com.tr^
 ||dirilispostasi.com^
+||vogue.com.tr^
+||gq.com.tr^
 
 ! Radyo Kanalları
 ||trt.net.tr^
@@ -49,3 +61,14 @@
 ||internethaber.com^
 ||haberler.com^
 ||mynet.com^
+||nesine.com^
+
+! Dijital Platformlar / Yayın Hizmetleri  
+||exxen.com^  
+||tabii.com^  
+||acunmedya.com^  
+||digiturk.com.tr^  
+||dsmart.com.tr^  
+||beinsports.com.tr^  
+||bloomberght.com^ 
+||puhutv.com^
