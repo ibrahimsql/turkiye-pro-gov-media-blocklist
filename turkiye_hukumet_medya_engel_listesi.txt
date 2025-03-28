@@ -1,94 +1,100 @@
-! Türkiye'de Hükümete Yakın Medya Kuruluşları Engelleme Listesi - Mart 2025
-! Aşağıdaki siteler, hükümete yakın medya kuruluşlarını kapsamaktadır.
-
-! Gazeteler
-||hurriyet.com.tr^
-||milliyet.com.tr^
-||sabah.com.tr^
-||takvim.com.tr^
-||gunes.com^
-||aksam.com.tr^
-||star.com.tr^
-||yenisafak.com^
-||turkiyegazetesi.com.tr^
-||yeniakit.com.tr^
-||posta.com.tr^
-||fanatik.com.tr^
-||gazetevatan.com^
-
-! Televizyon Kanalları
-||trt.net.tr^
-||atv.com.tr^
-||kanald.com.tr^
-||showtv.com.tr^
-||startv.com.tr^
-||kanal7.com.tr^
-||ahaber.com.tr^
-||ntv.com.tr^
-||cnnturk.com^
-||tgrthaber.com^
-||tgrthaber.com.tr^
-||beyaztv.com.tr^
-||ulketv.com^
-||tv8.com.tr^
-||aspor.com.tr^
-||minika.com.tr^
-||minikacocuk.com.tr^
-||vavtv.com.tr^
-||sport1.com.tr^
-||nickelodeon.com.tr^
-
-! Haber Ajansları
-||aa.com.tr^
-||iha.com.tr^
-||dha.com.tr^
-
-! Dergiler ve Diğer Yayınlar
-||dailysabah.com^
-||yeniasir.com.tr^
-||dirilispostasi.com^
-||vogue.com.tr^
-||gq.com.tr^
-||turkuvazkitap.com.tr^
-
-! Radyo Kanalları
-||trt.net.tr^
-||kralmuzik.com.tr^
-||radyo7.com^
-
-! İnternet Haber Siteleri
-||ahaber.com.tr^
-||haber7.com^
-||ensonhaber.com^
-||internethaber.com^
-||haberler.com^
-||mynet.com^
-||nesine.com^
-
-! Dijital Platformlar / Yayın Hizmetleri  
-||exxen.com^  
-||tabii.com^  
-||acunmedya.com^  
-||digiturk.com.tr^  
-||dsmart.com.tr^  
-||beinsports.com.tr^  
-||bloomberght.com^ 
-||puhutv.com^
-
-! Medya Holding Şirketleri
-||ihlasyayinholding.com.tr^
-
-! E-Ticaret Platformları
-||idefix.com^
-||dr.com.tr^
-||etstur.com^
-
-! Bahis, Şans Oyunları ve Piyango Siteleri
-||misli.com^
-||millipiyangoonline.com^
-
-! Mobilya ve Dekorasyon Şirketleri
-||kilimmobilya.com.tr^
-
-! Gıda ve Kahve Zincirleri
-||espressolab.com^
+1| ! Türkiye'de Hükümete Yakın Medya Kuruluşları Engelleme Listesi - Mart 2025
+2| ! Aşağıdaki siteler, hükümete yakın medya kuruluşlarını kapsamaktadır.
+3| 
+4| ! Gazeteler
+5| ||hurriyet.com.tr^
+6| ||milliyet.com.tr^
+7| ||sabah.com.tr^
+8| ||takvim.com.tr^
+9| ||gunes.com^
+10| ||aksam.com.tr^
+11| ||star.com.tr^
+12| ||yenisafak.com^
+13| ||turkiyegazetesi.com.tr^
+14| ||yeniakit.com.tr^
+15| ||posta.com.tr^
+16| ||fanatik.com.tr^
+17| ||gazetevatan.com^
+18| 
+19| ! Televizyon Kanalları
+20| ||trt.net.tr^
+21| ||atv.com.tr^
+22| ||kanald.com.tr^
+23| ||showtv.com.tr^
+24| ||startv.com.tr^
+25| ||kanal7.com.tr^
+26| ||ahaber.com.tr^
+27| ||ntv.com.tr^
+28| ||cnnturk.com^
+29| ||tgrthaber.com^
+30| ||tgrthaber.com.tr^
+31| ||beyaztv.com.tr^
+32| ||ulketv.com^
+33| ||tv8.com.tr^
+34| ||aspor.com.tr^
+35| ||minika.com.tr^
+36| ||minikacocuk.com.tr^
+37| ||vavtv.com.tr^
+38| ||sport1.com.tr^
+39| ||nickelodeon.com.tr^
+40| 
+41| ! Haber Ajansları
+42| ||aa.com.tr^
+43| ||iha.com.tr^
+44| ||dha.com.tr^
+45| 
+46| ! Dergiler ve Diğer Yayınlar
+47| ||dailysabah.com^
+48| ||yeniasir.com.tr^
+49| ||dirilispostasi.com^
+50| ||vogue.com.tr^
+51| ||gq.com.tr^
+52| ||turkuvazkitap.com.tr^
+53| 
+54| ! Radyo Kanalları
+55| ||trt.net.tr^
+56| ||kralmuzik.com.tr^
+57| ||radyo7.com^
+58| 
+59| ! İnternet Haber Siteleri
+60| ||ahaber.com.tr^
+61| ||haber7.com^
+62| ||ensonhaber.com^
+63| ||internethaber.com^
+64| ||haberler.com^
+65| ||mynet.com^
+66| ||nesine.com^
+67| 
+68| ! Dijital Platformlar / Yayın Hizmetleri  
+69| ||exxen.com^  
+70| ||tabii.com^  
+71| ||acunmedya.com^  
+72| ||digiturk.com.tr^  
+73| ||dsmart.com.tr^  
+74| ||beinsports.com.tr^  
+75| ||bloomberght.com^ 
+76| ||puhutv.com^
+77| 
+78| ! Medya Holding Şirketleri
+79| ||ihlasyayinholding.com.tr^
+80| 
+81| ! E-Ticaret Platformları
+82| ||idefix.com^
+83| ||dr.com.tr^
+84| ||etstur.com^
+85| 
+86| ! Bahis, Şans Oyunları ve Piyango Siteleri
+87| ||misli.com^
+88| ||millipiyangoonline.com^
+89| 
+90| ! Mobilya ve Dekorasyon Şirketleri
+91| ||kilimmobilya.com.tr^
+92| 
+93| ! Gıda ve Kahve Zincirleri
+94| ||espressolab.com^
+95| ||tarimkredi.org.tr^
+96| ||watsons.com.tr^
+97| ||tkkoop.com.tr^
+98| ||kizilay.org.tr^
+99| ||torku.com.tr^
+100|||ulker.com.tr^
